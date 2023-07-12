@@ -11,3 +11,15 @@ SCOPE:
     5. Simple economy (food sells less than swords, etc)
         a. based on number of trading routes and types of goods produced
     6. Trading routes
+    7. Possibly unlock more things as more people move in.
+
+GAME MECHANICS:
+    Mouse should be used to interact with everything
+    Different tools for:
+    1. Building roads
+    2. Zoning the plots next to the roads
+    3. Viewing and managing water/wood/food resources
+    4. Viewing Citizen happiness
+    5. Purchasing trade routes
+    6. Adding special buildings
+        a. Choose from preset buildings
