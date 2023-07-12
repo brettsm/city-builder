@@ -1,5 +1,5 @@
 SCOPE:
-    The game will be set in mideival times.
+    The game will be set in midieval times.
     The game should have functionality for:
     1. Zoning plots of land (Shops, Residential, Farm)
         a. can only zone next to roads
