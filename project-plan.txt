@@ -1,0 +1,13 @@
+SCOPE:
+    The game will be set in mideival times.
+    The game should have functionality for:
+    1. Zoning plots of land (Shops, Residential, Farm)
+        a. can only zone next to roads
+    2. Using up resources (water, wood for houses, etc.)
+        a. should have options for renewable sources as well (mill that replants trees)
+        b. should have food mechanics and option for droughts
+    3. Citizen happiness
+    4. Special buildings (Blacksmith, Herbalist, Academy, Castle)
+    5. Simple economy (food sells less than swords, etc)
+        a. based on number of trading routes and types of goods produced
+    6. Trading routes
