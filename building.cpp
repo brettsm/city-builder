@@ -8,13 +8,16 @@ class building {
         int price;
         char* buildingType;
         bool nearRoad = false;
+        int buildingID;
+        //call constructor for stats_city.cpp
         
     //     //probably need something to hold the image that will be dislpayed
     public:
         building(char* zone) {
+
+            buildingType = stats_city.dothing;
             if(zone == "Residential") {
-                //some sort of thing to decide if the residential is high density or low density housing
-                    //maybe there should be another function for this? (Probably not)
+                
 
             } else if(zone == "Shops") {
                 buildingType = "Shop";
