@@ -1,3 +1,5 @@
+//need a function to calculate how close their residence is to their home to see if they can walk there
+//if they cant walk to a store, they could suffer some illnesses or something like that
 class citizen {
     private:
         int buildingID;
@@ -15,6 +17,7 @@ class citizen {
             job = career;
             education = edu;
         }
+
         void setBuildingID(int newID) {
             buildingID = newID;
         }
@@ -50,5 +53,9 @@ class citizen {
         }
         char* getEdu() {
             return education;
+        }
+
+        char* nextActivity() {
+            //use poisson distribution in stats_city.cpp to have each citizen decide what to do next
         }
 };

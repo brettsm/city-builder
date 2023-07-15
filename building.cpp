@@ -1,3 +1,5 @@
+//Brett Smith
+//Need to add some sort of function that calculates the closeness to a store or farm
 #include <string>
 
 class building {
