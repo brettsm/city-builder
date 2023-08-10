@@ -1,5 +1,5 @@
 #include <iostream>
-#include <SFML/Graphics.hpp>
+#include <SFML/Graphics.hpp> //TODO figure out SFML stuff
 
 int main(int argc, char* argv[]) {
     bool isRunning = true;
