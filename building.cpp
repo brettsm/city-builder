@@ -1,10 +1,10 @@
 //Brett Smith
 //Need to add some sort of function that calculates the closeness to a store or farm
-#include <string>
 #include "building.h"
 
 
 building::building(char* zone) {
+    //can maybe use stats_city to randomly decide whther house or apartment etc.
     if(zone == "Residential") { 
         this->buildingType = "House";
     } else if(zone == "Shops") {
